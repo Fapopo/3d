@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!AAACCVVXXXAs
+      Hello from Render!CCC
     </section>
   </body>
   <script src="three.min.js"></script>
