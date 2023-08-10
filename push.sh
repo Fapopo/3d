@@ -1,4 +1,4 @@
-git branch -m master main
+git checkout main
 git add -A
 git commit -m "a"
 git push https://github.com/Fapopo/3d
